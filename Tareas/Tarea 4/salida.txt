@@ -1,0 +1,3 @@
+Recorriendo el tablero tablero.txt con la(s) ficha(s) caballo.txt y rey.txt
+caballo.txt: (2,2) -> 
+rey.txt: (0,0) -> (0, 1) -> (1, 2) -> (0, 2) -> (1, 1) -> (2, 0) -> (2, 1)
